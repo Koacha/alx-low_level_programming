@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	print("my name is Mememe");
+	print("my first name is Mememe");
 }
